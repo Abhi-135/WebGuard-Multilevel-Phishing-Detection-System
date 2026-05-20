@@ -1,4 +1,4 @@
-# WebGuard – Multi-Layer Phishing Detection System
+# WebGuard – Multilevel Phishing Detection System
 
 WebGuard is a Java-based phishing detection web application that analyzes emails and URLs using multiple detection layers.
 
